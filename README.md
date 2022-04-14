@@ -9,5 +9,5 @@ Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CS
 Modificações feitas por mim:
 
  - Adição de um botão para iniciar o jogo;
- - mudanças na forma iniciar e finalizar o jogo;
+ - mudanças na forma de iniciar e finalizar o jogo;
  - mudanças menores de estilos.
